@@ -1,0 +1,9 @@
+Office_friend: kamal,kamal@gmail.com,clerk,2000/12/12
+Official: hasara,hasaragalle@gmail.com,ceo
+Official: hasara,hasara@gmail.com,Software Engineer
+Office_friend: kamal,kamal@gmail.com,clerk,2021/12/20
+Office_friend: kkkkamal,kkkkamal@gmail.com,ceo,2021/12/22
+Personal: sunil,sunil,sunil@gmail.com,2021/12/20
+Official: nimas,nimas@gmail.com,clark
+Office_friend: kamal,kamal@gmail.com,clerk,2021/12/22
+Official: nimal,nimal@gmail.com,ceo
